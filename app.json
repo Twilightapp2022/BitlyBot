@@ -13,8 +13,8 @@
         "API_HASH": {
             "description": "Your API_HASH from https://my.telegram.org/apps"
         },
-        "BITLY_TOKEN":{
-            "description": "Your BITLY_TOKEN from https://bitly.is/accesstoken"
+        "Pdisk Token":{
+            "description": "Your BITLY_TOKEN from https://pdisk.org/accesstoken"
         
         }
     },
